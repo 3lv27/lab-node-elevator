@@ -1,0 +1,12 @@
+{
+  "strict": true,
+  "globalstrict": true,
+  "esversion": 6,
+  "globals": {
+    "console": true,
+    "setInterval": true,
+    "clearInterval": true,
+    "module": true,
+    "require": true
+  }
+}
